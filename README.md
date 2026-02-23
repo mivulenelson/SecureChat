@@ -258,26 +258,47 @@ Example DM packet:
 
 Folder Structure
 securechat
+
    > chat_server.py
+
    > run_client.py
+
    > chat_src
+
       -> __init__.py
+      
       -> network
+      
         --> __init__.py
+        
         --> protocol.py
+        
         --> client_node.py
+        
       -> security/
+      
         --> __init__.py
+        
         --> auth.py
+        
         --> crypto_e2ee.py
+        
       -> storage
+      
         --> __init__.py
+        
         --> identity_store.py
+        
         --> chat_db.py
+        
       -> gui
+      
         --> __init__.py
+        
         --> login_ui.py
+        
         --> app_ui.py
+        
 
 Technical Highlights
 
