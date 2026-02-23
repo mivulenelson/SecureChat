@@ -1,6 +1,6 @@
 SecureChat
 
-A desktop end-to-end encrypted messaging application built with Python + PySide6.
+An end-to-end encrypted messaging application built with Python + PySide6.
 
 SecureChat provides:
 
